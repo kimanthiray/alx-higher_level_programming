@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Write a script that changes the name of a State object from the database
+""" prints the State object with the name passed as argument from the database
 """
 import sys
 from model_state import Base, State
